@@ -1998,7 +1998,8 @@ body {
   transition: 0.2s background ease-in-out;
 }
 .cid-qz9zzfjh6Q {
-  background-image: url("../../../assets/images/76010275.jpg");
+  background-color: #12ca48;
+  background: linear-gradient(45deg, #12ca48, #000000);
 }
 @media (min-width: 992px) {
   .cid-qz9zzfjh6Q .mbr-figure {
@@ -2136,7 +2137,7 @@ body {
 .cid-qz97GEQoIv {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-image: url("../../../assets/images/jumbotron.jpg");
 }
 @media (max-width: 767px) {
   .cid-qz97GEQoIv .content {
