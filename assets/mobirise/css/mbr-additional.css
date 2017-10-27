@@ -1998,8 +1998,7 @@ body {
   transition: 0.2s background ease-in-out;
 }
 .cid-qz9zzfjh6Q {
-  background-color: #12ca48;
-  background: linear-gradient(45deg, #12ca48, #000000);
+  background-image: url("../../../assets/images/76010275.jpg");
 }
 @media (min-width: 992px) {
   .cid-qz9zzfjh6Q .mbr-figure {
@@ -2021,7 +2020,7 @@ body {
   text-align: center;
 }
 .cid-qz9wliEs8i {
-  background: linear-gradient(45deg, #cc2952, #a09fc0);
+  background-image: url("../../../assets/images/76010872.jpg");
 }
 @media (min-width: 992px) {
   .cid-qz9wliEs8i .mbr-figure {
@@ -2137,7 +2136,7 @@ body {
 .cid-qz97GEQoIv {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
+  background-image: url("../../../assets/images/75825084.jpg");
 }
 @media (max-width: 767px) {
   .cid-qz97GEQoIv .content {
